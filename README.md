@@ -11,6 +11,8 @@ To explore a variety of domains for colourization techniques, two different data
 
 Another dataset used to train the models is sample sample of the ImageNet dataset, called [Imagenette](https://www.tensorflow.org/datasets/catalog/imagenette). The original ImageNet dataset is based on the words in the WordNet hierarchy and contains over 14 million images divided accross 1000 classes. The Imagenette dataset is a lot smaller and contains only 10 classes of objects. By having different types of objects, this will test if the neural network can differentiate the colouring based on context and patterns. Overall, this dataset evaluates the colourization of more common objects, places and landscapes. 
 
+We first convert the images to grayscale and then begin training. 
+
 
 ## Results
 
