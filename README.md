@@ -19,7 +19,14 @@ We first convert the images to grayscale and then begin training.
 
 ## Results
 
+#### CelebA Dataset
 
+![CelebA Results](images/celebA_results.png "CelebA Results")
+
+#### Imagenette Dataset
+
+
+![Imagenette Results](images/imagenette_results.png "Imagenette Results")
 
 ### Contributors:
 Ilan Gofman: [@ilangofman](https://github.com/ilangofman)
