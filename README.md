@@ -3,7 +3,7 @@ Converting gray scale images to colour using deep neural networks.
 
 ## Methods
 
-We trained and tested the model on a subset of two larger datasets. To examine the performance of the model on colourizing of smaller datasets. The model architecture was using an encoder-decoder model with a pretrained imagenet model feeding into the decoder. 
+We trained and tested the model on a subset of two larger datasets. This was done to examine the performance of smaller datasetsthe colourization task. The model architecture was using an encoder-decoder model with a pretrained imagenet model feeding into the decoder. 
 
 ![Model Architecture](images/model.png "Model Architecture")
 
